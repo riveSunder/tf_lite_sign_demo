@@ -1,0 +1,4 @@
+Tutorial was developed with the 27 Class Sign Language Dataset, posted to Kaggle under a CC BY-NC-SA 4.0 license by Arda Mavi (https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset).
+
+
+Associated arXiv manuscript: Mavi. A., and Dikle, Z. (2022). A New 27 Class Sign Language Dataset Collected from 173 Individuals. arXiv:2203.03859
